@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rene ACTUALIZADO",
+      "telefono": "96111414",
+      "correo": "correo@correo.com",
+      "empresa": "unah",
+      "id": 3
+    },
+    {
+      "nombre": "Shue ACTUALIZADO",
+      "telefono": "96111414",
+      "correo": "coasdasdACTUALIZADO",
+      "empresa": "UNAHACTUALIZADO",
+      "id": 4
+    }
+  ]
+}
